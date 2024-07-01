@@ -1,4 +1,22 @@
 ## Hi there 👋
+Hey 
+
+I’m just a passionate coder and a keen learner.
+
+🌐 Socials:
+YouTube Discord
+
+💻 Tech Stack:
+CSS3 HTML5 JavaScript Lua NPM NodeJS UNITY GitHub MySQL Adobe Photoshop Canva
+
+📊 GitHub Stats:
+
+
+
+
+
+
+💰 You can help me by Donating
 
 <!--
 **thatgoofyboy/thatgoofyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
